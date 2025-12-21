@@ -1,11 +1,14 @@
 # ovncr
 Dự án thao trường mạng mở Việt Nam
+
 # Thao trường mạng - công cụ tất yếu của của quốc gia số an toàn
 Trong bối cảnh đất nước đang đẩy nhanh tiến trình chuyển đổi số, xây dựng Chính phủ số, nền kinh tế số, an toàn thông tin (ATTT) đã trở thành trụ cột sống còn. Các hệ thống thông tin, cơ sở dữ liệu quốc gia, dịch vụ công trực tuyến... ngày càng mở rộng đồng nghĩa với việc đối diện với các nguy cơ tấn công mạng tinh vi hơn. Việt Nam đặt mục tiêu chiến lược lọt Top 3 khu vực về an ninh mạng, đòi hỏi một sự thay đổi mạnh mẽ trong cách đào tạo, huấn luyện và đánh giá năng lực an ninh mạng. Tuy nhiên, thực tế hiện nay cho thấy chúng ta đang thiếu hụt hàng trăm nghìn nhân sự chất lượng cao, có kỹ năng thực chiến. Các mô hình đào tạo truyền thống không còn đáp ứng được yêu cầu về độ phức tạp và tính chân thực. Đây chính là động lực khai sinh ra một nền tảng tiên phong, một giải pháp cốt lõi để giải quyết bài toán này.
   Thao trường An ninh mạng (Cyber Range) là hệ thống cho phép triển khai giả lập các hệ thống mạng máy tính, ứng dụng và cơ sở hạ tầng thực tế. Khác với các phòng lab đơn giản, thao trường cung cấp không gian diễn tập an toàn, nơi các chuyên gia có thể thực hành kỹ thuật tấn công và phòng thủ, rèn luyện kỹ năng phản ứng sự cố trên hệ thống như thực tế.
 Trên thế giới, các quốc gia phát triển như Mỹ, Israel, Nga, Trung Quốc, Hàn Quốc đều sở hữu thao trường mạng riêng. Tại Việt Nam, các mô hình như CRC500 và VCr (Viet Nam Cyber Range) đã chứng minh vai trò thiết yếu trong diễn tập và đào tạo. Tuy nhiên, việc triển khai thao trường đòi hỏi đội ngũ chuyên gia vận hành lớn, chuyên sâu, cùng hạ tầng vật lý mạnh; các giải pháp nước ngoài thường có chi phí rất cao và khó tùy biến với Việt Nam, gây khó khăn cho việc triển khai rộng rãi thao trường trong thực tiễn.
 # Đặc trưng của "Thao trường An ninh mạng Mở Việt Nam" oVnCr:
 Để khắc phục các rào cản về chi phí và tính tự chủ, chúng tôi đã kiến tạo nên Thao trường An ninh mạng Mở Việt Nam (oVnCr) với định hướng "mở" toàn diện, nhấn mạnh vào sự hợp tác và phát triển nội lực của nhóm ViSecurity.
+
+
 ## Đặc trưng mô hình mở, tự chủ công nghệ:
 
 ### Mở về nhân lực phát triển và vận hành: Huy động rộng rãi các chuyên gia, học giả, doanh nghiệp cùng tham gia xây dựng và quản lý nền tảng.
