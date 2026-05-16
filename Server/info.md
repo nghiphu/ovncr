@@ -39,7 +39,8 @@ Tên máy ảo gốc: SV FPS UBT24
 ## Máy cấp cho PTIT thử nghiệm Aomic Red Team
 - TEST WIN10 BAOTQCPTIT CAI ATOMIC RED TEAM
 - TEST KALI BAOTQ PTIT
-
+- 
+## Máy cấp cài pentagi
   
 
 
