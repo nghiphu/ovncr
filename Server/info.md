@@ -1,4 +1,9 @@
-# Thông tin về các máy chủ hệ thống
+# Máy chủ nội bộ C500
+## Minio
+- Địa chỉ: http://10.0.28.88:9001
+- Gọi API hoặc đẩy file qua cổng 9000
+
+# Thông tin về các máy chủ trên Mobi Cloud
 
 ## Thông tin chung 
 Trang chủ để truy cập, quản trị https://cloud.mobifone.vn/
@@ -17,8 +22,6 @@ Tên máy ảo gốc: SV FPS UBT24
 - Địa chỉ IP truy cập: 59.153.245.214
 - Link truy cập: https://cloud.v1.ovncr.vn
 - Ghi chú: Thành VB2 cài nextcloud và keycloak
--
-- chuyển Dương cài test thử thử multil tenant
 
 #### ovncr.vn
 - Tên máy ảo: SV LMS WIN2019
@@ -29,12 +32,14 @@ Tên máy ảo gốc: SV FPS UBT24
   
 ### Máy dự phòng
 
-     - Tên máy ảo: HVAN WIN 2022
-     - Địa chỉ IP truy cập: 42.1.65.134
-     - Tên đăng nhập: Administrator
-     - Password truy cập: Admin@123
-     - RDP Port 2223
+- Tên máy ảo: HVAN WIN 2022
+- Địa chỉ IP truy cập: 42.1.65.134
 
 # Thông tin các máy client
+## Máy cấp cho PTIT thử nghiệm Aomic Red Team
+- TEST WIN10 BAOTQCPTIT CAI ATOMIC RED TEAM
+- TEST KALI BAOTQ PTIT
+
+  
 
 
