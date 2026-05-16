@@ -30,22 +30,22 @@ Tên máy ảo gốc: SV FPS UBT24
 - Ghi chú: đang cài portal chính ovncr.vn;
      máy 10.0.28.52 đang chuyển sang bản dự phòng c500.ovncr.vn
   
-### Máy dự phòng
+### Máy dự phòng - đang dồn làm việc khác
 
 - Tên máy ảo: HVAN WIN 2022
 - Địa chỉ IP truy cập: 42.1.65.134
 
 # Thông tin các máy client
 ## Máy cấp cho PTIT thử nghiệm Aomic Red Team
-- TEST WIN10 BAOTQCPTIT CAI ATOMIC RED TEAM: 
+- TEST WIN10 BAOTQCPTIT CAI ATOMIC RED TEAM: 42.1.65.74
 - TEST KALI BAOTQ PTIT: 42.1.65.219
 - 
 ## Máy cấp cài pentagi
 - TEST PENTAGI KALI: 42.1.65.197
-  Đang giao Mih 56 triển khai, cài đặt để dùng chung phần test đánh giá tự động
+- Đang giao Mih 56 triển khai, cài đặt để dùng chung phần test đánh giá tự động
 ## Máy cài Headscale
 - TEST HEADSCALE KALI: 42.1.65.136
-  Đang giao Dương 05 cài đặt để triển khai diện rộng
+- Đang giao Dương 05 cài đặt để triển khai diện rộng
   
 
 
