@@ -1,0 +1,58 @@
+=== multi-tenants summary ===
+timestamp: 2026-05-11T23:28:37-07:00
+tenants: 5
+suffix: team
+base_domain: network.ovncr.vn
+download_host: download.network.ovncr.vn
+
+## tenants
+
+=== team-1 ===
+headplane: https://headplane-team-1.network.ovncr.vn/admin
+api_key: hskey-api-jIivBy2V27a3-EDqYiD0YJ_o124U-q98DfszkIHtnCEZNa7P_Y43cO17ecn7JsQMybhSReJXfAMsO
+auth_key_gateway: hskey-auth-oC_4mNGiCPc9-aAekR2m740pX19JJSV-Jpi6301sRdAQ8S7CViSTzyBLQEDDAD57ONOJbIg7XSBHF
+auth_key_workspace: hskey-auth-6drAi25QXgOO-WmOFroWVKf-3cnIo42-Sar0YLBv3cdFVb-htggPgnmq9o-qDj-YucI1hBor0QPQo
+client_scripts:
+  - linux.sh: OK (https://download.network.ovncr.vn/team-1/linux.sh)
+  - gateway.sh: OK (https://download.network.ovncr.vn/team-1/gateway.sh)
+  - window.ps1: OK (https://download.network.ovncr.vn/team-1/window.ps1)
+
+=== team-2 ===
+headplane: https://headplane-team-2.network.ovncr.vn/admin
+api_key: hskey-api-SCZyHcPwnUB6-TAxOTZNgeLea0NEnYy4Dvyd53mg0HpV6UPHmuqXJHsirsXsxbDHfsH1D5jNjXqck
+auth_key_gateway: hskey-auth-DLMqkjWEVAo4-Lq7m-pLzG03hW7nEFBy07_LBv0lPMBM3GjtD3RIkq1NCmqgY1aL4uT97kueW9WcF
+auth_key_workspace: hskey-auth-pBlw-OFWAauk-bOIzCE1AYJpukcF_FGuPJ7n2ya9oUdUQ-3X7O_kJIIJBAoqjcX02o-PbNFww37nB
+client_scripts:
+  - linux.sh: OK (https://download.network.ovncr.vn/team-2/linux.sh)
+  - gateway.sh: OK (https://download.network.ovncr.vn/team-2/gateway.sh)
+  - window.ps1: OK (https://download.network.ovncr.vn/team-2/window.ps1)
+
+=== team-3 ===
+headplane: https://headplane-team-3.network.ovncr.vn/admin
+api_key: hskey-api-w2P5LOOegVKB-NnKRAp3W71j8cwqYIqnz2j1e3ZHEwc5wpTStSw1VARuS0ZWV4L_XpbMxNbQr-Ny6
+auth_key_gateway: hskey-auth-oTq_ybtPOleU-ZoB8svcgGCztRoguU1LusKIonkzw2lIxfwpoQcEHaaLH-Pr9oLAWTFcaoq7lKU_d
+auth_key_workspace: hskey-auth-v2W_wF4IFzTx-w2XYEMeHWvC-zHa0QSgdndmUEfjJ-jyLvmt0lA2rXGqvReF6QLIyo6wA1dXxTkna
+client_scripts:
+  - linux.sh: OK (https://download.network.ovncr.vn/team-3/linux.sh)
+  - gateway.sh: OK (https://download.network.ovncr.vn/team-3/gateway.sh)
+  - window.ps1: OK (https://download.network.ovncr.vn/team-3/window.ps1)
+
+=== team-4 ===
+headplane: https://headplane-team-4.network.ovncr.vn/admin
+api_key: hskey-api-Ldz_ZzvjfUXp-vAW9Q25jfFHTknzJPkprBYTEgX6JpZRMbYOB2PoYyVJn3c-4pZKvlVCJtsPJ4Tb1
+auth_key_gateway: hskey-auth-Xp5NOeGHPjW7-ocecQCG3uqoTBAjcTVF6ZkFhHNtOTqMWl3yjgU9Y2fqRj1Cuxjr1SeaFzmMuqQM6
+auth_key_workspace: hskey-auth-vrxtMU-2WC1n-CeUVlezqQWH5Kjwrvfdxt_r9LEtJAayhEnKqVA0jrT9bQIJidOdQ6IXrN8FhSGsa
+client_scripts:
+  - linux.sh: OK (https://download.network.ovncr.vn/team-4/linux.sh)
+  - gateway.sh: OK (https://download.network.ovncr.vn/team-4/gateway.sh)
+  - window.ps1: OK (https://download.network.ovncr.vn/team-4/window.ps1)
+
+=== team-5 ===
+headplane: https://headplane-team-5.network.ovncr.vn/admin
+api_key: hskey-api-NyfRdgPIDksF-_0kEPmuabLfevxswwE-Xtf4BGCXJ9h4Ef4gfudP9e8ENzyPVrCXxGRTKK-7qhWsR
+auth_key_gateway: hskey-auth-V9Pp85CeZUBz-5O-6MejcsPaKiylFx3MynwYAUIa50P4-KX8PKh7YZ58QP7vEBqg7xBpQmZEyf8eY
+auth_key_workspace: hskey-auth-2dw-rFM8Q1jA-FhJaHT_4R_SCBksKH_N6r5N_h_NAPapqL0gtE_VDmR_PnrQyoqx7ntG-W1kG5VNe
+client_scripts:
+  - linux.sh: OK (https://download.network.ovncr.vn/team-5/linux.sh)
+  - gateway.sh: OK (https://download.network.ovncr.vn/team-5/gateway.sh)
+  - window.ps1: OK (https://download.network.ovncr.vn/team-5/window.ps1)
