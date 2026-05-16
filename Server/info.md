@@ -1,21 +1,24 @@
 # Thông tin về các máy chủ hệ thống
 
-## Trang chủ để truy cập, quản trị
-https://cloud.mobifone.vn/
+## Thông tin chung 
+Trang chủ để truy cập, quản trị https://cloud.mobifone.vn/
 
 ## Thông tin các máy chủ cung cấp 14/4/2026:
 Cấu hình 16 CPU, 32 GB Ram, 200 SSD.
 
 ### fps.ovncr.vn
-Tên máy ảo gốc: HVAN UBUNTU2404 2
+Tên máy ảo gốc: SV FPS UBT24
 - Địa chỉ IP truy cập: 59.153.245.146
 - Link truy cập: http://fps.ovncr.vn 
 - Ghi chú: Phong cài fps.ovncr.vn
   
-### oVnCr headscale
-- Tên máy ảo gốc: HVAN UBUNTU2404 1
+### nextcloud
+- Tên máy ảo gốc: SV NEXTCLOUD KEYCLOAK UBT24
 - Địa chỉ IP truy cập: 59.153.245.214
-- Ghi chú: chuyển Dương cài test thử thử multil tenant
+- Link truy cập: https://cloud.v1.ovncr.vn
+- Ghi chú: Thành VB2 cài nextcloud và keycloak
+-
+- chuyển Dương cài test thử thử multil tenant
 
 #### ovncr.vn
 - Tên máy ảo: SV LMS WIN2019
@@ -31,3 +34,7 @@ Tên máy ảo gốc: HVAN UBUNTU2404 2
      - Tên đăng nhập: Administrator
      - Password truy cập: Admin@123
      - RDP Port 2223
+
+# Thông tin các máy client
+
+
