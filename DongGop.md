@@ -29,7 +29,7 @@ Mức 5. Hoàn thiện (100 điểm)
 3. Penagi, Minh, mức 2
 4. Triển khai giả lập android, Minh 05, Mức 2
 5. Triển khai giả lập camera, Hiếu, Mức 1
-6. Phân bổ tài nguyên dựa trên GA, Đạt, Mức 1
+6. Phân bổ tài nguyên dựa trên GA, Đạt, Mức 4
 7. Triển khai EVE, Vinh, Mức 2-3
 8. LMS, Toàn+Uyên +Minh+Phú, mức 3
 9. Giám sát lõi ovncr bằng wazuh, Toàn, Mức 2.
