@@ -24,7 +24,7 @@ Mức 4. Có nhiều cải tiến quan trọng (80 điểm)
 Mức 5. Hoàn thiện (100 điểm)
 
 ## Các kết quả nghiên cứu công nghệ:
-1. Vấn đề kết nối hạ tầng bằng headscale, Dương, Mức 3.
+1. Vấn đề kết nối hạ tầng bằng headscale, Dương, Mức 4.
 2. Atomic Red Team, Điệp, mức 1-2
 3. Penagi, Minh, mức 2
 4. Triển khai giả lập android, Minh 05, Mức 2
