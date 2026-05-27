@@ -6,6 +6,6 @@ Sử dụng kết nối các mạng Wazuh của các bạn Lào D38
 
 ## client_scripts:
 
-  - linux.sh: OK (https://download.network.ovncr.vn/team-1/linux.sh)
-  - gateway.sh: OK (irm https://download.network.ovncr.vn/team-1/gateway.sh)
-  - window.ps1: Mở power shell với quyền administrator (irm https://download.network.ovncr.vn/team-1/window.ps1 | iex)
+  - linux.sh: OK (https://download.network.ovncr.vn/team-5/linux.sh)
+  - gateway.sh: OK (irm https://download.network.ovncr.vn/team-5/gateway.sh)
+  - window.ps1: Mở power shell với quyền administrator (irm https://download.network.ovncr.vn/team-5/window.ps1 | iex)
