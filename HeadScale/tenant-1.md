@@ -10,5 +10,5 @@ Sử dụng cho mạng cơ bản, gồm các máy hệ điều hành Android, wi
 
   - linux.sh: OK (https://download
 .network.ovncr.vn/team-1/linux.sh)
-  - gateway.sh: OK (ỉmhttps://download.network.ovncr.vn/team-1/gateway.sh)
+  - gateway.sh: OK (irm https://download.network.ovncr.vn/team-1/gateway.sh)
   - window.ps1: Mở power shell với quyền administrator (irm https://download.network.ovncr.vn/team-1/window.ps1 | iex)
