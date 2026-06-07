@@ -1,4 +1,3 @@
-Dưới đây là dự thảo tài liệu chuẩn giới thiệu về hệ thống thao trường theo đúng các yêu cầu và thông tin chúng ta đã phân tích. Tài liệu được biên soạn với văn phong kỹ thuật, cấu trúc rõ ràng, sẵn sàng để bạn sử dụng cho các bài trình bày hoặc tài liệu nội bộ.
 # TÀI LIỆU GIỚI THIỆU: THAO TRƯỜNG IOT HYBRID OVNCR
 ## 1. Giới thiệu tổng quan về thao trường
 Thao trường IoT Hybrid OVNCR là một nền tảng diễn tập an toàn thông tin không gian mạng tiên tiến, được thiết kế dựa trên mô hình **kết hợp (Hybrid)** giữa môi trường mạng ảo hóa truyền thống và hệ thống thiết bị vật lý thực tế (Smart Home/SOHO).
